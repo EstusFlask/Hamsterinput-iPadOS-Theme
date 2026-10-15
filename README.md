@@ -1,4 +1,6 @@
 # **仓输入法个人自用皮肤（仓输入法布局、仓输入法配色方案）**
+
+An iOS-style keyboard layout and color scheme for the Hamster input method on iPadOS. Chinese, English, and numeric layouts are included; a dedicated symbol keyboard is not implemented. See the Chinese notes and previews below.
 做了一个仓输入法的仿iOS布局，解决了原本的仓输入法iPadOS上和原生输入法差别较大的问题
 
 其中包含中文、英文、数字键盘（仓输入法布局、配色方案），不过由于符号键盘不常用且没有时间做，暂时没有搞出来，如有需要欢迎在Issue中提出
